@@ -1,5 +1,5 @@
-[python-project-color-detection (3).zip](https://github.com/himm2017/COLOUR-DETECTION/files/7072170/python-project-color-detection.3.zip)
-# COLOUR-DETECTION
+
+# Colour-Detection
  Colour Detection using Pandas &amp; OpenCV
 Description:
 
