@@ -1,3 +1,4 @@
+[python-project-color-detection (3).zip](https://github.com/himm2017/COLOUR-DETECTION/files/7072170/python-project-color-detection.3.zip)
 # COLOUR-DETECTION
  Colour Detection using Pandas &amp; OpenCV
 Description:
@@ -49,7 +50,8 @@ First, we created a window in which the input image will display. Then, we set a
 5. Create the draw_function
 It will calculate the rgb values of the pixel which we double click. The function parameters have the event name, (x,y) coordinates of the mouse position, etc. In the function, we check if the event is double-clicked then we calculate and set the r,g,b values along with x,y positions of the mouse.
 
-6. Calculate distance to get color name
+6. Calculate distance to get color name[python-project-color-detection (4).zip](https://github.com/himm2017/COLOUR-DETECTION/files/7072172/python-project-color-detection.4.zip)
+
 We have the r,g and b values. Now, we need another function which will return us the color name from RGB values. To get the color name, we calculate a distance(d) which tells us how close we are to color and choose the one having minimum distance.
 
 Our distance is calculated by this formula:
